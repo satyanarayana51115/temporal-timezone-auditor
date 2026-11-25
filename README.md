@@ -31,6 +31,9 @@ Distributed systems frequently suffer from silent data corruption when local ser
 ### 2. Self-Contained Pytest HTML Governance Report
 ![HTML Audit Report](assets/html_audit_report.png)
 
+### 3. Live Time-Travel Showcase Output
+![Live Demo Showcase](assets/live_demo_terminal.png)
+
 ---
 
 ## 🚀 Quick Start
